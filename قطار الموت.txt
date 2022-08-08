@@ -1,0 +1,32 @@
+public class Main
+{
+	public static void main(String[] args) {
+      
+      //الطول القانوني
+      int x = 160;
+      
+      //ahmed
+      int y =170 ;
+    
+      //hamad
+      int z = 155;
+     if (x<y){
+     System.out.println("you can enter ahmed");
+     
+     
+      }else{ 
+         System.out.println("sorry you can not enter ahmed");
+         
+      }
+       if (x<z){
+     System.out.println("you can enter hamad");
+     
+       }else{
+         System.out.println("sorry you can not enter hamad");
+     
+      }
+     
+    
+	}
+
+}

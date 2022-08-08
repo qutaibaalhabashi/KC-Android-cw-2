@@ -1,0 +1,16 @@
+public class Main
+{
+	public static void main(String[] args) {
+      
+       String name = "Qutaiba";
+       
+       int age = 18;
+       
+       double gpa = 3.35;
+       
+       System.out.println("my name is " + name);
+       
+       System.out.println( "and I am " + age + " years old" );
+       
+       
+	}
